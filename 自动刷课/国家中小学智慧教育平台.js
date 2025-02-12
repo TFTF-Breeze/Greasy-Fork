@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         国家中小学智慧教育平台
-// @namespace    http://tampermonkey.net/
+// @namespace    https://basic.smartedu.cn/
 // @version      2025-02-08
-// @description  try to take over the world!
-// @author       You
+// @description  国家中小学智慧教育平台(https://basic.smartedu.cn/)
+// @author       TFTF-Breeze
+// @license      ABOL=1.0
 // @match        https://basic.smartedu.cn/teacherTraining/*
 // @icon         https://basic.smartedu.cn/img/logo-icon.afa526cf.png
 // @grant        none

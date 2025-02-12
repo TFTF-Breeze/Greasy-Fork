@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         广东省教育双融双创智慧共享社区
-// @namespace    http://tampermonkey.net/
+// @namespace    https://srsc.gdedu.gov.cn/
 // @version      2025-02-11
-// @description  try to take over the world!
-// @author       You
+// @description  广东省教育双融双创智慧共享社区(https://srsc.gdedu.gov.cn/)
+// @author       TFTF-Breeze
+// @license      ABOL=1.0
 // @match        https://srsc.gdedu.gov.cn/course/*
 // @icon         https://cdn-srsc2.gdedu.gov.cn/02fdd2b34ff1e65457bf65d20b28965d/srsc/2023-04-28/ecb21f1b9eba46979b4be431cd2650a4.ico
 // @grant        none

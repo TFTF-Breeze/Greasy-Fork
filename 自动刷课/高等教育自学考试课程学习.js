@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         高等教育自学考试课程学习
-// @namespace    http://tampermonkey.net/
+// @namespace    https://gjtplatform.51100.net/
 // @version      2024-12-18
-// @description  try to take over the world!
-// @author       You
+// @description  高等教育自学考试课程学习(https://gjtplatform.51100.net/)
+// @author       TFTF-Breeze
+// @license      ABOL=1.0
 // @match        https://gjtplatform.51100.net/examGjtStaticLssy/*
 // @icon         https://gjtplatform.51100.net/examGjtStaticLssy/dist/img/sign-title.c54e8ace.png
 // @require      https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js
